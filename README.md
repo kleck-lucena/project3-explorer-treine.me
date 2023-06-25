@@ -3,7 +3,8 @@
 > Projeto construído no programa Explorer, promovido pela Rocketseat, no stage 2 - em aula.
 
 
-![Project3](https://github.com/kleck-lucena/project3-explorer-treine.me/assets/107014908/57a0a06a-960d-447d-aa2d-1ba5721c7b37)
+
+![train3](https://github.com/kleck-lucena/project3-explorer-treine.me/assets/107014908/618e6802-a45d-4612-98c5-c58f11617b24)
 
 
 </p>
